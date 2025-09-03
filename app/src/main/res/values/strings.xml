@@ -19,4 +19,7 @@
     <string name="zero">0</string>
     <string name="dot">.</string>
     <string name="equal">=</string>
+    <string name="invalid_format">Invalid Format</string>
+    <string name="divide_by_zero_error">Can\'t Divide By Zero</string>
+    <string name="unknown_operator">Unknown operator: %1$s</string>
 </resources>
